@@ -6,5 +6,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String line = sc.nextLine();
         System.out.println(line);
+        int a = 5;
+        System.out.println(a);
+
     }
 }
